@@ -24,11 +24,17 @@ Double click the instance to launch the modpack.
 Steps for updating the pack
 
 1) Download the latest release of CXT-BOA from here (GitHub)
+
 2) Unzip the download. You should see a config, and mods folder.
+
 3) Open MultiMC and click on CXT BOA instance (don't double click, we don't want to launch it)
+
 4) Right column, click on "Instance Folder"
+
 5) Open the "minecraft" folder
+
 6) delete the config and mods folder. It is important to delete these folders. If you don't you can end up with problems.
+
 7) drag the config and mods folders from the unzipped download in step 2. 
 
 With the new config and mods folders replaced you will have updated the pack. It's ready to launch.
